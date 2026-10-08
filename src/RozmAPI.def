@@ -1,0 +1,10 @@
+LIBRARY RozmAPI
+EXPORTS
+    Rozm_CreateW
+    Rozm_Destroy
+    Rozm_SynthesizeW
+    Rozm_SynthesizeUtf8
+    Rozm_FreeAudio
+    Rozm_SaveWavW
+    Rozm_GetLastError
+    Rozm_GetVersion

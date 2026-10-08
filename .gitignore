@@ -1,0 +1,6 @@
+/analysis/
+/build/
+/probe.pcm
+*.obj
+*.pdb
+__pycache__/
