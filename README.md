@@ -113,7 +113,7 @@ engine's Ukrainian pronunciation rules; English words use its bundled dictionary
   dictionaries directly, and redirects the final PCM output to a buffer.
 - Original EXE entry point, unit initialization, form creation, playback, and
   WAV/file-output code are not executed. The in-memory PCM patch does not touch disk.
-- Supported executable: **July 27, 2007**, 520704 bytes, SHA-256
+- Supported executable: version 1.2, **July 27, 2007**, 520704 bytes, SHA-256
   `90e26b39a4ca518df3b1ebcf4bbaf90a8543ed90a31273241d580d22b39e1a54`.
   Other versions are rejected; engine addresses are build-specific.
 - The supported target is Windows 10/11 x86/x64. The original proprietary
